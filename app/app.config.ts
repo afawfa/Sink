@@ -4,6 +4,7 @@ export default defineAppConfig({
   github: 'https://github.com/afawfa',
   twitter: 'https://x.com/xiaogong777',
   telegram: 'https://t.me/keqing2',
+  mastodon: '',
   blog: 'https://i.miiiku.com',
   description: '长链接转短链接',
   image: 'https://www.miiiku.com/wp-content/uploads/2025/06/TonVRa9IQrwPULS.png',
